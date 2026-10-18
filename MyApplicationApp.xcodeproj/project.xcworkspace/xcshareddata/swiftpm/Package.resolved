@@ -1,0 +1,15 @@
+{
+  "originHash" : "fe4f8c8b7cebf954725826b68d56fcca894ba09721ed9757356fe634c20e045b",
+  "pins" : [
+    {
+      "identity" : "my_ledger_sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/FdevTech/My_Ledger_SDK",
+      "state" : {
+        "revision" : "ee0c8730ea32a251c1a131c817c5343661f0c566",
+        "version" : "1.0.0-alpha"
+      }
+    }
+  ],
+  "version" : 3
+}
