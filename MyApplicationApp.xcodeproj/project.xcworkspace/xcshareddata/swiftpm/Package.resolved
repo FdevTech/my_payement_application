@@ -6,7 +6,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/FdevTech/My_Ledger_SDK",
       "state" : {
-        "revision" : "ee0c8730ea32a251c1a131c817c5343661f0c566",
+        "revision" : "f9dc6e6ff403788e2c2a5935735255a33cb79c2f",
         "version" : "1.0.0-alpha"
       }
     }
